@@ -1,0 +1,11 @@
+ekeko
+
+.DS_Store
+
+.vscode/
+
+nimcache/
+
+testresults/
+
+*.env
