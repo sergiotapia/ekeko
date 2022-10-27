@@ -4,4 +4,4 @@
 import "youtube"
 
 when isMainModule:
-  downloadUrl("https://www.youtube.com/watch?v=CKZN1IfYvC4")
+  downloadUrl("https://www.youtube.com/watch?v=QtXby3twMmI")
